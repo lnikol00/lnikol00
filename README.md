@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
+<img align="right" alt="Coding" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 - 🌱 I’m currently learning **Unreal Engine**
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
