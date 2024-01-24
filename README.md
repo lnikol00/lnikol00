@@ -3,7 +3,7 @@
 
 <h3 align="left">Main Focus Projects</h3>
 
-* Blog-App
+* <b>Blog-App</b>
 * Airport-App
 * Fast-food-E-commerce-Shop
 * Sport-Organization-Application (Graduation Thesis)
