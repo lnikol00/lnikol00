@@ -1,14 +1,36 @@
-<h3 align="left">Main Focus Projects</h3>
-
-* Blog-App 
+<h3 align="left">.NET Web Api (C#)</h3>
 
 * Airport-App 
+
+* low-cost-search
+
+* KingAcademy-Workshop
+
+<h3 align="left">Unity & C#</h3>
+
+* 2D-platformer 
+
+* chess-game 
+
+* game-gravity-guy 
+
+<h3 align="left">React (JavaScript, Typescript & Node.js)</h3>
+
+* Blog-App
+
+* ReactJS-Projects
 
 * Fast-food-E-commerce-Shop
 
 * Sport-Organization-Application (Graduation Thesis)
 
-* low-cost-search
+<h3 align="left">Other</h3>
+
+* DFT (Matlab)
+
+* image-resizing (Verilog)
+
+* RF-Labovi (Python)
 
 <p padding="10px 0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lnikol00&show_icons=true&locale=en&layout=compact" alt="lnikol00" /></p>
 
